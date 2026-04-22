@@ -7,6 +7,7 @@ print("Path to dataset files:", path)
 
 import os
 
+#find location
 for root, dirs, files in os.walk(path):
     print("ROOT:", root)
     print("DIRS:", dirs[:5])
