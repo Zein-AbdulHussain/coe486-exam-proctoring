@@ -16,7 +16,7 @@ for root, dirs, files in os.walk(path):
     break
 
 import glob
-
+#image concat
 images = glob.glob(path + "/**/*.jpg", recursive=True)
 
 print("Total images found:", len(images))
