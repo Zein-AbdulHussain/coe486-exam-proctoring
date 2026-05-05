@@ -6,7 +6,7 @@ Instructor: Dr. Omar Arif.
 ## Team
 - [Zein Abdul-Hussain]
 - [Mansoor Kamkar]
-- [Yazan Abu Jbarah]
+- [Yazan Abu Jbarah
 
 ## Overview
 A lightweight exam proctoring system combining gaze/head pose attention
